@@ -1,0 +1,39 @@
+
+.btn-regular{
+    background-color: goldenrod;
+    width: 150px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.icon-color{
+    color: gold;
+}
+.card img{
+    height: 250px;   
+    border-radius: 5%; 
+}
+.card{
+    padding: 10px;
+    border-radius: 3%;
+    background-color:rgb(121, 178, 201);
+    box-shadow: 4px 4px 8px rgba(19, 62, 102, 0.534);
+    transition: 0.25s;
+}
+.card:hover {
+    background-color: rgb(107, 128, 175);
+    box-shadow: 10px 10px 20px rgba(64, 22, 88, 0.527);
+    transform: scale(1.02);
+  }
+p{
+    line-height: 1.5rem;
+    color: rgb(31, 20, 71);
+}
+.btnPosition{
+    text-align: center;
+}
+h4{
+    color: rgb(94, 13, 110);
+    padding-bottom: 5px;
+}

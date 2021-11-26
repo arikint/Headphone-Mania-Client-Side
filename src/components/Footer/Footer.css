@@ -1,0 +1,30 @@
+.footer{
+    margin-top: 50px;
+    padding-top: 30px;
+    height: 370px;
+    width: 100%;
+    background-color: rgb(20, 27, 49);
+
+    color: rgb(71, 166, 204);
+    text-align: center;
+}
+
+.footer p{
+    color: rgba(132, 182, 40, 0.774);
+    line-height: 20px;
+}
+.footer h2{
+    color: rgba(190, 89, 21, 0.918);
+    line-height: 60px;
+}
+
+.footerlist{
+    text-decoration: none;
+    list-style: none;
+    color: rgba(132, 182, 40, 0.774);
+}
+.listdiv{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
